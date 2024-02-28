@@ -21,7 +21,7 @@ wow = new WOW(
       slidesToShow: 3,
       autoplay: true,
       autoplaySpeed: 5000,
-      speed: 3000,
+      speed: 2000,
       pauseOnHover:true,
       dots: false,
       
@@ -41,7 +41,6 @@ wow = new WOW(
         settings: {
           slidesToShow: 2,
           dots: true,
-          dots: false,
           prevArrow: false,
           nextArrow: false,
         }
@@ -51,7 +50,7 @@ wow = new WOW(
         breakpoint: 575,
         settings:{
           slidesToShow: 1,
-          dots: false,
+          dots: true,
           prevArrow: false,
           nextArrow: false,
         } // destroys slick
