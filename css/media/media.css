@@ -1,0 +1,820 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* common button  */
+    .c_btn{
+        font-size: 14px;
+    width: 150px !important;
+    padding: 4px 0
+    }
+
+    /* logo  */
+    .logo h2{
+        font-size: 25px;
+        padding: 20px 0;
+    }
+    /* menu item */
+    .item_nav ul li a {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    /* toggolar icon  */
+    .tog_icon{
+        width: 25px;
+        height: 25px;
+        background-color: #ffffff;
+        border-radius: 5px
+    }
+    /* banner start  */
+    .bnr_text{
+        padding: 30px 20px 20px;
+    }
+    .bnr_text h4{
+        font-size: 14px;
+    }
+    .bnr_1sth2{
+       font-size: 35px;
+       padding: 10px 0 0;
+       letter-spacing: 2px;
+    }
+    .bnr_2ndh2{
+        font-size: 18px;
+        padding: 5px 0 10px;
+        letter-spacing: 2px;
+    }
+    .bnr_img{
+        padding:0px 20px 50px;
+    }
+    .c_btn{
+        width: 150px;
+        margin-top: 10px;
+    }
+    /* about section start  */
+    .about {
+        padding: 30px 20px 20px;
+    }
+    .ab_text {
+        text-align: center;
+    }
+    .ab_text h3 {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+    .com_h2 {
+        font-size: 18px;
+        padding: 10px 0 8px;
+    }
+    .com_p {
+        font-size: 14px;
+        padding-bottom: 8px;
+        line-height: 20px;
+    }
+    .ab_img img {
+        width: 700px;
+    }
+    /* book section start  */
+    .book {
+        padding: 30px 0 20px;
+    }
+    .book_heding h2 {
+        font-size: 20px;
+    }
+    .book_p {
+        font-size: 14px;
+        padding: 15px 10px 10px;
+     }
+    .book_label label {
+        font-size: 16px;
+        padding: 10px 0 8px;
+    }
+    .book_input input {
+        width: 100%;
+        padding: 8px 10px;
+    }
+    .book_form{
+        padding: 0 30px;
+    }
+    .book_btn {
+        width: 100% !important;
+        padding: 10px !important;
+        margin-top: 30px !important;
+    }
+    /* book section end */
+    /* service section start  */
+    .service_1 {
+        min-height: 380px;
+        margin: 0 10px;
+    }
+    .section_heding {
+        padding: 30px 0 20px;
+    }
+    .section_heding h2 {
+        font-size: 20px;
+        
+    }
+    .ser_slider {
+        padding: 0px 0 20px;
+    }
+    .ser_text {
+        padding: 0px 15px 15px;
+    }
+    .ser_text h2 {
+        font-size: 16px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .ser_text p {
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    /* service section end */
+    /* features section start  */
+    .features {
+        padding: 0px 0 20px;
+    }
+    .fe_heding{
+        padding-bottom: 5px;
+    }
+    .fe_icon i {
+        font-size: 50px;
+        padding-top: 20px;
+        
+    }
+    .fe_item {
+        min-height: 320px;
+        padding: 0px 15px 0;
+        margin: 25px 15px 0;
+        text-align: center;
+    }
+    .fe_text h2 {
+        font-size: 20px;
+        padding: 20px 0 15px;
+    }
+    .fe_text p {
+        font-size: 14px;
+        padding: 0 0px 25px 0;
+        line-height: 20px;
+    }
+    /* features section end */
+     /* contact us section start  */
+     .contact {
+        padding: 0px 0 20px;
+    }
+    .form_text {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .mass{
+        min-width: 648px;
+        margin: 20px 20px 20px 0;
+        min-height: 200px;
+    }
+    .mass_in{
+        padding: 0;
+    }
+    .con_us i {
+        font-size: 30px;
+    }
+    .con_us h2 {
+        font-size: 18px;
+    }
+    .con_us p {
+        line-height: 8px;
+        font-size: 14px;
+    }
+    form{
+        
+    }
+    .mass {
+        min-width: 0px;
+    }
+    .form_section{
+        margin: 0 20px 0 30px;
+    }
+    /* contact us section end */
+
+     /* footer section stert  */
+     .footer_top {
+        padding: 30px 0 20px;
+    }
+    .ftr_col1 a h3 { 
+        font-size: 20px;
+    }
+    .ftr_col1{
+        text-align: center;
+    }
+    .ftr_col1 p {
+        font-size: 13px;
+        padding: 15px 40px 12px
+    }
+    .socail_icon ul {
+        padding: 0 ;
+        margin: 0px 0px 0 70px;
+    }
+    .socail_icon li {
+        padding: 0px 7px;
+    }
+    .socail_icon li a i {
+        font-size: 20px;
+    }
+
+    .menu_list h3 {   
+        font-size: 18px;
+        text-align: center;
+        padding: 20px 0 8px;
+    }
+    .menu_list ul {
+        padding: 0;
+        text-align: center;
+    }
+    .menu_list ul li {
+        padding:0;
+    }
+    .menu_list ul li a {
+        font-size: 13px;
+    }
+
+    .contact_list h3 {
+        font-size: 18px;
+        text-align: center;
+        padding: 10px 0 0px;
+    }
+    .contact_p {
+        font-size: 13px;
+        padding: 15px 0 0px;
+        text-align: center;
+    }
+    .p2 {
+        font-size: 13px;
+        margin: 0;
+        padding: 0px;
+        text-align: center;
+    }
+    .contact_list p span {
+        padding-right: 5px;
+    }
+    .p2 span{
+        padding-right: 5px;
+    }
+    .p3 {
+        font-size: 13px;
+        text-align: center;
+        padding: 0 40px;
+    }
+    .copy p {
+        font-size: 5px;
+        padding: 10px 0;
+    }
+    /* footer section end */
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* common button  */
+    .c_btn{
+        font-size: 16px;
+        width: 150px;
+        padding: 6px 0;
+    }
+    /* logo  */
+    .logo h2{
+        font-size: 30px;
+        padding: 20px 0;
+    }
+    /* menu item */
+    .item_nav ul li a {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    /* toggolar icon  */
+    .tog_icon{
+        background-color: #ffffff;
+        border-radius: 5px
+    }
+    /* banner start  */
+    .bnr_text{
+        padding: 60px 0 50px;
+    }
+    .bnr_text h4{
+        font-size: 20px;
+    }
+    .bnr_1sth2{
+       font-size: 50px;
+       padding: 20px 0 0;
+       letter-spacing: 8px;
+    }
+    .bnr_2ndh2{
+        font-size: 30px;
+        padding: 8px 0 15px;
+    }
+    .bnr_img{
+        padding:0px 0 50px;
+    }
+    .c_btn {
+        width: 150px;
+        margin-top: 10px;
+    }
+    /* about section start  */
+    .about {
+        padding: 60px 0 50px;
+    }
+    .ab_text {
+        text-align: center;
+    }
+    .com_h2 {
+        font-size: 25px;
+        padding: 10px 0 8px;
+    }
+    com_p {
+        font-size: 15px;
+        padding-bottom: 10px;
+        line-height: 25px;
+    }
+    .ab_img img {
+        width: 700px;
+    }
+    .ab_text h3 {
+       padding-top: 30px;
+    }
+    /* book section start  */
+    .book {
+        padding: 60px 0 50px;
+    }
+    .book_heding h2 {
+        font-size: 20px;
+    }
+    .book_p {
+        padding: 20px 0 15px;
+    }
+    .book_label label {
+        font-size: 18px;
+        padding: 15px 0 10px;
+    }
+    .book_input input {
+        width: 100%;
+        padding: 15px 20px;
+    }
+    .book_form{
+        padding: 0 40px;
+    }
+    .book_btn {
+        width: 100% !important;
+        padding: 15px !important;
+        margin-top: 40px !important;
+    }
+    /* book section end */
+    /* service section start  */
+    .service_1 {
+        min-height: 380px;
+        margin: 0 10px;
+    }
+    .section_heding {
+        padding: 60px 0 40px;
+    }
+    .section_heding h2{
+        font-size: 20px;
+    }
+    .ser_slider {
+        padding: 0px 0 50px;
+    }
+    .ser_text {
+        padding: 0px 15px 15px;
+    }
+    .ser_text h2 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .ser_text p {
+        font-size: 12px;
+    }
+    
+    /* service section end */
+    /* features section start  */
+    .features {
+        padding: 0px 0 60px;
+    }
+    .fe_heding{
+        padding-bottom: 10px;
+    }
+    .fe_icon i {
+        font-size: 60px;
+        
+    }
+    .fe_item {
+        min-height: 340px;
+        padding: 0px 15px 0;
+        margin: 30px 15px 0;
+        text-align: center;
+    }
+    .fe_text h2 {
+        font-size: 25px;
+        
+    }
+    .fe_text p {
+        font-size: 15px;
+        padding: 0 0px 30px 0;
+        line-height: 25px;
+    }
+    /* features section end */
+    /* contact us section start  */
+    .contact {
+        padding: 0px 0 60px;
+    }
+    .form_text {
+        text-align: center;
+        padding-top: 40px;
+    }
+    .mass {
+        margin: 0;
+        padding: 20px 12px;
+    }
+    .con_us i {
+        font-size: 30px;
+    }
+    .con_us h2 {
+        font-size: 18px;
+    }
+    .con_us p {
+        line-height: 8px;
+        font-size: 14px;
+    }
+    .form_section{
+        margin: 0 20px 0 30px;
+    }
+    /* contact us section end */
+    /* footer section stert  */
+    .footer_top {
+        padding: 60px 0 50px;
+    }
+    .ftr_col1 a h3 { 
+        font-size: 25px;
+    }
+    .ftr_col1{
+        text-align: center;
+    }
+    .ftr_col1 p {
+        font-size: 14px;
+        padding: 15px 40px 12px
+    }
+    .socail_icon ul {
+        padding: 0 ;
+        margin: 0px 0px 0 180px;
+    }
+    .socail_icon li {
+        padding: 0px 7px;
+    }
+    .socail_icon li a i {
+        font-size: 20px;
+    }
+
+    .menu_list h3 {   
+        font-size: 22px;
+        text-align: center;     
+        padding: 25px 0 10px; 
+    }
+    .menu_list ul {
+        padding: 0;
+        text-align: center;
+    }
+    .menu_list ul li {
+        padding:0;
+    }
+    .menu_list ul li a {
+        font-size: 14px;
+    }
+
+    .contact_list h3 {
+        font-size: 22px;
+        text-align: center;
+        padding: 20px 0 0px;
+    }
+    .contact_p {
+        font-size: 14px;
+        padding: 20px 0 0px;
+        text-align: center;
+    }
+    .p2 {
+        font-size: 14px;
+        margin: 0;
+        padding: 5px;
+        text-align: center;
+        color: #ffffff;
+    }
+    .contact_list p span {
+        padding-right: 5px;
+    }
+    .p2 span{
+        padding-right: 5px;
+    }
+    .p3 {
+        font-size: 14px;
+        text-align: center;
+        padding: 0 40px;
+    }
+    .copy p {
+        font-size: 10px;
+        padding: 15px 0;
+    }
+    /* footer section end */
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+     /* common button  */
+     .c_btn{
+        font-size: 16px;
+        width: 150px;
+        padding: 6px 0;
+    }
+    /* logo  */
+    .logo h2{
+        font-size: 35px;
+        padding: 25px 0;
+    }
+    /* menu item */
+    .item_nav ul li a {
+        line-height: 20px;
+    }
+    /* toggolar icon  */
+    .tog_icon{
+        background-color: #ffffff;
+        border-radius: 5px
+    }
+    /* banner start  */
+    .bnr_text{
+        padding: 70px 0 60px;
+    }
+    .bnr_text h4{
+        font-size: 20px;
+    }
+    .bnr_1sth2{
+       font-size: 60px;
+       padding: 25px 0 0;
+       letter-spacing: 10px;
+    }
+    .bnr_2ndh2{
+        font-size: 40px;
+        padding: 10px 0 20px;
+    }
+    .bnr_img{
+        padding:0px 0 70px;
+    }
+    /* about section start  */
+    .about {
+        padding: 70px 0 60px;
+    }
+    .com_h2 {
+        font-size: 30px;
+        padding: 15px 0 10px;
+    }
+    com_p {
+        padding-bottom: 15px;
+        line-height: 25px;
+    }
+    .ab_img img {
+        width: 700px;
+    }
+    .ab_text h3 {
+       padding-top: 40px;
+    }
+    /* book section start  */
+    .book {
+        padding: 70px 0 60px;
+    }
+    .bottom_padding label {
+        padding: 20px 0 15px;
+    }
+    .book_p {
+        padding: 25px 0 20px;
+    }
+    .book_label label { 
+        font-size: 20px;
+    }
+    /* book section end */
+    /* service section start  */
+    .service_1 {
+        min-height: 380px;
+        margin: 0 10px;
+    }
+    .section_heding {
+        padding: 70px 0 30px;
+    }
+    .ser_slider {
+        padding: 0px 0 60px;
+    }
+    .ser_text {
+        padding: 0px 15px 15px;
+    }
+    .ser_text h2 {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .ser_text p {
+        font-size: 12px;
+    }
+    
+    /* service section end */
+    /* features section start  */
+    .section_heding {
+        padding: 70px 0px 50px;
+    }
+    .features {
+        padding: 0px 0 60px;
+    }
+    .fe_icon i {
+        font-size: 45px;
+        padding-top: 30px;
+        
+    }
+    .fe_item {
+        min-height: 340px;
+        padding: 0px 15px 0;
+        margin: 0px 15px;
+        text-align: center;
+    }
+    .fe_text h2 {
+        font-size: 20px;
+        padding: 20px 0 15px;
+    }
+    .fe_text p {
+        font-size: 14px;
+        padding: 0 0px 20px 0;
+        line-height: 20px;
+    }
+    /* features section end */
+    /* contact us section start  */
+    .contact {
+        padding: 0px 0 60px;
+    }
+    .form_text {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .mass {
+        margin: 0;
+        padding: 20px 12px;
+    }
+    .con_us i {
+        font-size: 40px;
+    }
+    .con_us h2 {
+        font-size: 20px;
+    }
+    .con_us p {
+        line-height: 10px;
+    }
+    .submit_btn{
+        width: 100%;
+        margin-top: 40px;
+    }
+    /* contact us section end */
+    /* footer section stert  */
+    .footer_top {
+        padding: 70px 0 60px;
+    }
+    .ftr_col1 a h3 { 
+        font-size: 30px;
+        text-align: center;
+    }
+    .ftr_col1 p {
+        font-size: 15px;
+        padding: 20px 0 15px;
+    }
+    .socail_icon li {
+        padding: 0px 7px;
+    }
+    .socail_icon li a i {
+        font-size: 20px;
+    }
+
+    .menu_list h3 {   
+        font-size: 28px;
+        text-align: center;      
+    }
+    .menu_list ul li {
+        padding:0;
+    }
+    .menu_list ul li a {
+        font-size: 15px;
+    }
+
+    .contact_list h3 {
+        font-size: 28px;
+        text-align: center;
+
+    }
+    .contact_p {
+        font-size: 11px;
+        padding: 20px 0 0px;
+    }
+    .p2 {
+        font-size: 11px;
+        margin: 0;
+        padding: 5px;
+        color: #ffffff;
+    }
+    .contact_list p span {
+        padding-right: 5px;
+    }
+    .p2 span{
+        padding-right: 5px;
+    }
+    .p3 {
+        font-size: 15px;
+    }
+    .copy p {
+        font-size: 13px;
+        margin: 0;
+        padding: 15px 0;
+        color: #ffffff;
+    }
+    /* footer section end */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    /* common button  */
+    .c_btn{
+        width: 150px;
+        padding: 6px 0;
+    }
+    /* about section start  */
+    .ab_img img {
+        height: 500px;
+    }
+    .com_h2 {
+        font-size: 30px;
+        padding: 15px 0 10px;
+    }
+    com_p {
+        padding-bottom: 15px;
+        line-height: 25px;
+    }
+    /* book section start  */
+    .book {
+        padding: 100px 0 90px;
+    }
+    .book_p {
+        padding: 25px 0 20px;
+        text-align: center;
+        margin: 0;
+    }
+    /* book section end */
+    /* service section start  */
+    .service_1 {
+        min-height: 450px;
+    }
+    .ser_text{
+        padding: 0px 12px 20px;
+     }
+    .ser_text p{
+        font-size: 15px;
+        margin: 0;
+    }
+    /* service section end */
+    /* features section start  */
+    .section_heding {
+        padding: 100px 0px 80px;
+    }
+    .fe_icon i {
+        font-size: 60px;
+        padding-top: 35px;
+    }
+    .fe_item {
+        min-height: 435px;
+        padding: 0 30px 0;
+        margin: 0 18px;
+    }
+    .fe_text h2 {
+        font-size: 30px;
+        padding: 25px 0 20px;
+    }
+    .fe_text p {
+        padding: 0 30px 30px 0;
+        line-height: 25px;
+    }
+    /* features section end */
+    /* contact us section start  */
+    .contact {
+        padding: 0px 0 90px;
+    }
+    .submit_btn{
+        width: 100%;
+        margin-top: 40px;
+    }
+    /* contact us section end */
+    /* footer section start  */
+    .socail_icon li {
+        padding: 0 10px;
+    }
+    /* footer section end */
+ }
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+
+}
+ /* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) { 
+
+}
